@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to My Web Site dedicated to implementing popular algorithms
 
 You can use the [editor on GitHub](https://github.com/ateffal/implement-it/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
