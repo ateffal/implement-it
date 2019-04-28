@@ -1,3 +1,8 @@
+> ## "What I hear I forget, what I see I remember, what I do I understand."
+><cite>Xunzi (340 - 245 BC)</cite>
+
+
+
 ## Welcome to My Web Site dedicated to implementing popular machine learning algorithms.
 
 We will began with the most popular algorithms and those that are "easy to implement": 
