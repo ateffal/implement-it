@@ -24,3 +24,5 @@ print("Implementing linear regression from scratch")
 
 
 ```
+
+- ## [Linear Regression](linear-regression.md)
