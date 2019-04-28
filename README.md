@@ -1,12 +1,15 @@
-## Welcome to My Web Site dedicated to implementing popular algorithms
+## Welcome to My Web Site dedicated to implementing popular machine learning algorithms.
 
-You can use the [editor on GitHub](https://github.com/ateffal/implement-it/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+We will began with the most popular algorithms and those that are "easy to implement": 
+- Linear Regression
+- Logistic Regression
+- Classification 
+-...
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+For each algorithm we will began with a short description and then will implement it step by step.
+We will use [Python](https://www.python.org) for implementing the algorithm, then we will test it on fictive data then for public available data. Finaly we will compare the results with those produced by [scihit-learn](https://scikit-learn.org).
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
