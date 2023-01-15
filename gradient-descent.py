@@ -19,7 +19,7 @@ test_func_grad = (lambda x, y: (-2*(1-x) - 400*(y-x**2)),
 
 
 def gradient_descent(func, x0=None, func_grad=None):
-    """Ruturns the minimum of the given function
+    """Returns the minimum of the given function
 
     Parameters:
     func: Function whose minimum needs to be found
